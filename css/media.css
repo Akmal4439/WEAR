@@ -1,0 +1,119 @@
+@media (max-width:1200px){
+  
+    .main__content{
+        flex-direction: column;
+        
+    }
+    .header__nav-link{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .main__item{
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+    }
+    .main__item2{
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+    }
+    .main__item3{
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+    }
+    .main__item4{
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+    }
+    .main__section{
+      margin-top: 1400px;
+    }
+}
+@media (max-width:930px){
+    .header__nav-list{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .header__content{
+        flex-direction: column;
+        align-items: center;
+    }
+    .header__nav-link{
+        margin-bottom: 25px;
+    }
+    .main__section-content{
+        flex-direction: column;
+    }
+   
+    .main__item{
+        max-width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 45px;
+    }
+    .main__item2{
+        max-width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 45px;
+    }
+    .main__item3{
+        max-width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 45px;
+        margin-top: 145px;
+    }
+    .main__item4{
+        max-width: 70%;
+        min-height: 391px;
+        margin-left: auto;
+        margin-right: auto;
+        /* margin-bottom: 1500px; */
+    }
+   
+    .main__section{
+        margin-top: 1400px;
+      }
+    .section__img{
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .header__nav-list{
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .footer__content-logo{
+        margin-top: 30px;
+    }
+    .footer__nav-list{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        
+    }
+    .footer__content{
+        flex-direction: column;
+        align-items: center;
+    }
+    .footer__nav-link{
+        flex-wrap: wrap;
+      flex-direction: column;
+      justify-content: center;
+    }
+}
+@media (max-width:650px) {
+    .main__section{
+        margin-top: 1600px;
+    }
+    
+}
